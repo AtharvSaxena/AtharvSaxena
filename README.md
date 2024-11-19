@@ -1,9 +1,9 @@
 # Atharv Saxena
 ### 👨‍💻 Aspiring Full Stack Developer | BCA Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-saxena-a02b14332)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saxena.atharv09@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvSaxena)
 
 ## 🚀 About Me
 Passionate developer and technology enthusiast pursuing BCA at National PG College. Driven by the goal of becoming a Full Stack Developer and future tech entrepreneur. I believe in writing clean, efficient code and am constantly learning new technologies to expand my skill set.
@@ -16,7 +16,7 @@ Passionate developer and technology enthusiast pursuing BCA at National PG Colle
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvSaxena&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvSaxena&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 - Advanced Java Programming
@@ -25,14 +25,14 @@ Passionate developer and technology enthusiast pursuing BCA at National PG Colle
 - Data Structures and Algorithms
 
 ## 💼 Projects
-### 📱 [Project Name 1]
-- Brief description of the project
-- Technologies used
+### 📱 [Personal Portfolio Website]
+- A responsive personal website. Implemented modern design principles and cross-browser compatibility
+- HTML, CSS And JavaScript
 - Link to repository
 
-### 💻 [Project Name 2]
-- Brief description of the project
-- Technologies used
+### 💻 [Tour And Travel Website]
+- A responsive business website for fictional travel agency.
+- HTML And CSS
 - Link to repository
 
 ## 🎯 Goals for 2024
