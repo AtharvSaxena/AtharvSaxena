@@ -1,7 +1,7 @@
 # Atharv Saxena
 ### 👨‍💻 Aspiring Full Stack Developer | BCA Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-saxena-a02b14332)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-saxena001)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saxena.atharv09@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvSaxena)
 
@@ -35,11 +35,11 @@ Passionate developer and technology enthusiast pursuing BCA at National PG Colle
 - HTML And CSS
 - Link to repository
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025   
 - [ ] Master Full Stack Development
 - [ ] Build 5+ Professional Projects
 - [ ] Contribute to Open Source
-- [ ] Learn Python and C++
+- [ ] Learn React and Node.Js
 - [ ] Develop Strong DSA Skills
 
 ## 📈 Activity Graph
