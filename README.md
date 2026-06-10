@@ -21,16 +21,23 @@ Passionate developer and technology enthusiast pursuing BCA at National PG Colle
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvSaxena&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
-- React.js Fundamentals And Advanced
-- Python Development with FastAPI
-- 
-- Full Stack Web Development
+- React.js
+- FastAPI
+- Git & GitHub
+- REST APIs
+- Full-Stack Web Development
 
 ## 💼 Projects
-### 📱 [Personal Portfolio Website]
-- A responsive personal website. Implemented modern design principles and cross-browser compatibility
-- HTML, CSS And JavaScript
-- Link to repository
+
+### 🌐 Personal Portfolio Website
+
+Responsive personal portfolio website showcasing skills and projects.
+
+**Tech Stack:**
+HTML, CSS, JavaScript
+
+**Repository:**
+[View Project](REPOSITORY_LINK)
 
 ### 💻 [Tour And Travel Website]
 - A responsive business website for fictional travel agency.
