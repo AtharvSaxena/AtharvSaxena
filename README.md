@@ -1,5 +1,5 @@
 # Atharv Saxena
-### 👨‍💻 Aspiring Full Stack Developer | BCA Student
+### 👨‍💻 BCA Student | Aspiring Full Stack Developer | React & Python Learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-saxena001)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saxena.atharv09@gmail.com)
@@ -11,11 +11,9 @@ Passionate developer and technology enthusiast pursuing BCA at National PG Colle
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 
@@ -23,10 +21,10 @@ Passionate developer and technology enthusiast pursuing BCA at National PG Colle
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvSaxena&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
-- Advanced Java Programming
-- Python Development
+- React.js Fundamentals And Advanced
+- Python Development with FastAPI
+- 
 - Full Stack Web Development
-- Data Structures and Algorithms
 
 ## 💼 Projects
 ### 📱 [Personal Portfolio Website]
@@ -39,15 +37,12 @@ Passionate developer and technology enthusiast pursuing BCA at National PG Colle
 - HTML And CSS
 - Link to repository
 
-## 🎯 Goals for 2025   
-- [ ] Master Full Stack Development
-- [ ] Build 5+ Professional Projects
-- [ ] Contribute to Open Source
-- [ ] Learn React and Node.Js
-- [ ] Develop Strong DSA Skills
-
-## 📈 Activity Graph
-[![Atharv's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AtharvSaxena&theme=react-dark)](https://github.com/AtharvSaxena)
+## 🎯 Goals for 2026   
+- [ ] Finish React Development
+- [ ] Build 2 Full Stack Projects
+- [ ] Learn Git & GitHub Properly
+- [ ] Complete Research Paper
+- [ ] Strengthen Problem Solving Skills
 
 ## 🤝 Let's Connect!
 - Open for collaboration on interesting projects
