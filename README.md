@@ -14,7 +14,7 @@ Passionate developer and technology enthusiast pursuing BCA at National PG Colle
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
 
 ## 📊 GitHub Stats
@@ -40,9 +40,14 @@ HTML, CSS, JavaScript
 [View Project](REPOSITORY_LINK)
 
 ### 💻 [Tour And Travel Website]
-- A responsive business website for fictional travel agency.
-- HTML And CSS
-- Link to repository
+
+A responsive business website for fictional travel agency.
+
+**Tech Stack:**
+HTML, CSS
+
+**Repository:**
+[View Project](REPOSITORY_LINK)
 
 ## 🎯 Goals for 2026   
 - [ ] Finish React Development
